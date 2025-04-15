@@ -2,8 +2,7 @@
 
 import * as React from "react"
 import Image from "next/image"
-import { Calendar, Mail } from "lucide-react"
-import { ModeToggle } from "@/components/mode-toggle"
+import { Calendar } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 import Header from "@/components/layout/header"
